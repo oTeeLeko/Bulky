@@ -1,0 +1,5 @@
+/Users/leksupakan/Desktop/Coding/ASP.NET/Bulky/obj/Debug/net7.0/Bulky.csproj.AssemblyReference.cache
+/Users/leksupakan/Desktop/Coding/ASP.NET/Bulky/obj/Debug/net7.0/Bulky.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leksupakan/Desktop/Coding/ASP.NET/Bulky/obj/Debug/net7.0/Bulky.AssemblyInfoInputs.cache
+/Users/leksupakan/Desktop/Coding/ASP.NET/Bulky/obj/Debug/net7.0/Bulky.AssemblyInfo.cs
+/Users/leksupakan/Desktop/Coding/ASP.NET/Bulky/obj/Debug/net7.0/Bulky.csproj.CoreCompileInputs.cache

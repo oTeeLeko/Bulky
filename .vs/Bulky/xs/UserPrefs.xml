@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CC4F5CF3-DA2E-4235-938F-C0CEDAA081E3}|https" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bulky" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.BulkyWebRazor__Temp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
